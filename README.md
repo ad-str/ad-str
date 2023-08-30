@@ -23,6 +23,13 @@ I'm Adam! I currently work full-time as a Research Assistant at the Wharton Scho
 - Solid-Barnacle: hehe it's a secret
 - Leetcode 😵‍💫
 
+🫀 My Values:
+- My Strengths are Another's Superpower: The reason I grow is to improve my efficacy in helping others. I ask who not what I'm doing this for.
+- Excited to Fail: Not just to stay postive after failing, but accept beforehand that it is part of learning process, so as to keep my ambition unhindered.
+- United Empowerment: Come from a place of empathy, respect, and sincerity in any scenario. Lift each other up, invest in one another, and we'll all reap the benefits.
+- Stay Hungry: Don't be satisfied with the status quo. If something works well, ask if it can be even better.
+- Grounded: Appreciate everyone who has helped me in my journey and recognize I am bigger than me.
+
 🤓 I geek out on:
 - 🎮 GAMES! I will literally talk to you for hours about them.
 - Currently playing: ToTK, FF16

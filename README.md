@@ -31,7 +31,7 @@ I'm Adam! I currently work full-time as a Research Assistant at the Wharton Scho
 - **Stay Grounded**: Appreciate everyone who has helped me in my journey and recognize I am bigger than me.
 
 🤓 I geek out on:
-- 🎮 GAMES! I will literally talk to you for hours about them.
+- 🎮 GAMES! I will literally talk to you about them about them or, better yet, play them with you for hours!
 - Currently playing: ToTK, FF16
 - Perpetually playing: League of Legends, Rocket League, Overwatch 2, Pokemon
 - Want to play: Diablo 4, Phantom Liberty

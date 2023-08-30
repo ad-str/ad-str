@@ -34,4 +34,5 @@ Other hobbies include but are not limited to: 🏐, 🏂, 🏋️, 🥾, ✈️
 
 Favorite Emoji: 🧌
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ad-str&theme=monokai)](https://git.io/streak-stats)
+## 📈 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=ad-str&theme=monokai&mode=weekly)](https://git.io/streak-stats)

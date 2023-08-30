@@ -34,4 +34,4 @@ Other hobbies include but are not limited to: 🏐, 🏂, 🏋️, 🥾, ✈️
 
 Favorite Emoji: 🧌
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad-str)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ad-str&theme=monokai)](https://git.io/streak-stats)

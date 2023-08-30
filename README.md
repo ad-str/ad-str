@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Adam! I currently work full-time as a Research Assistant at the Wharton School, while also a part-time Master's student. Ignited by the fascination with the technology I used for research, I decided to work towards a career in software engineering instead, and I couldn't be more excited!
+I'm Adam! I currently work full-time as a Research Assistant at the Wharton School, while also studying part-time as a Master's student. Ignited by the fascination with the technology I used for research, I decided to work towards a career in software engineering instead, and I couldn't be more excited!
 
 💻 Currently working on:
 - A Master's in Computer and Information Technology at the Unversity of Pennsylvania

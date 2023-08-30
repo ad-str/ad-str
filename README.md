@@ -31,4 +31,5 @@ I'm Adam! I currently work full-time as a Research Assistant at the Wharton Scho
 - Completed: ... yea I'm not listing all them here. Instead, check out my HowLongToBeat! https://howlongtobeat.com/user/adstr/games/completed
 
 Other hobbies include but are not limited to: 🏐, 🏂, 🏋️, 🥾, ✈️
+
 Favorite Emoji: 🧌

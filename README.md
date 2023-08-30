@@ -29,6 +29,7 @@ I'm Adam! I currently work full-time as a Research Assistant at the Wharton Scho
 - **United Empowerment**: Come from a place of empathy, respect, and sincerity in any scenario. Lift each other up, invest in one another, and we'll all reap the benefits.
 - **Stay Hungry**: Don't be satisfied with the status quo. If something works well, ask if it can be even better.
 - **Stay Grounded**: Appreciate everyone who has helped me in my journey and recognize I am bigger than me.
+- **Prioritize Play**: That's what life's all about :) 
 
 🤓 I geek out on:
 - 🎮 GAMES! I will literally talk to you about them about them or, better yet, play them with you for hours!

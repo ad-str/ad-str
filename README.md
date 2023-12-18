@@ -1,26 +1,11 @@
 ### What's up!? 👋
 
-<!--
-**ad-str/ad-str** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Adam! I currently work full-time as a Research Assistant at the Wharton School, while also studying part-time as a Master's student. Ignited by the fascination with the technology I use for research, I've decided to work towards a career in software engineering, and I couldn't be more excited!
+I'm Adam! I am an incoming Software Developer Intern at the Federal Reserve Board of Governors in DC! I have been and currently work full-time as a Research Assistant at the Wharton School, while also studying part-time as a CS Master's student at Penn.
 
 ### 💻 Currently working on:
 - A Master's in Computer and Information Technology at the Unversity of Pennsylvania
 - SportsGenie: A sports prediction website in collaboration with 3 other developers
-- Solid-Barnacle: hehe it's a secret
+- Build Hunter: A small Django web app to help craft theoretical armor builds for Monster Hunter Rise
 - Leetcode 😵‍💫
 
 ### 🫀 My Values:
@@ -32,7 +17,7 @@ I'm Adam! I currently work full-time as a Research Assistant at the Wharton Scho
 - **Prioritize Play**: That's what life's all about :) 
 
 ### 🤓 I geek out on:
-- 🎮 GAMES! I will literally talk to you about them about them or, better yet, play them with you for hours!
+- 🎮 GAMES! I will literally talk to you about them or, better yet, play them with you for hours!
 - Currently playing: ToTK, MHR
 - Perpetually playing: League of Legends, Rocket League, Overwatch 2, Pokemon
 - Want to play: Diablo 4, Phantom Liberty

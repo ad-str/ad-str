@@ -1,6 +1,6 @@
 ### What's up!? 👋
 
-I'm Adam! I am an incoming Software Developer Intern at the Federal Reserve Board of Governors in DC! I have been and currently work full-time as a Research Assistant at the Wharton School, while also studying part-time as a CS Master's student at Penn.
+I'm Adam! I am an incoming Software Developer Intern at the Federal Reserve Board of Governors in DC! I have been and currently work full-time as a Research Assistant at the Wharton School, while also studying part-time as a CS Master's student at Penn in the Master's in Computer and Information Technology Program.
 
 ### 💻 Currently working on:
 - A Master's in Computer and Information Technology at the Unversity of Pennsylvania

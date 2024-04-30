@@ -1,11 +1,10 @@
 ### What's up!? 👋
 
-I'm Adam! I am an incoming Software Developer Intern at the Federal Reserve Board of Governors in DC! I have been and currently work full-time as a Research Assistant at the Wharton School, while also studying part-time as a CS Master's student at Penn in the Master's in Computer and Information Technology Program.
+I'm Adam! I'm an incoming Software Developer Intern at the Federal Reserve Board of Governors in DC! I have been and currently work full-time as a Research Assistant at the Wharton School, while also studying part-time as a CS Master's student at Penn in the Master's in Computer and Information Technology Program.
 
 ### 💻 Currently working on:
-- A Master's in Computer and Information Technology at the Unversity of Pennsylvania
-- SportsGenie: A sports prediction website in collaboration with 3 other developers
-- Build Hunter: A small Django web app to help craft theoretical armor builds for Monster Hunter Rise
+- A Master's in Computer and Information Technology at the Unversity of Pennsylvania - Expected Graduation Dec 2024
+- [SportsGenie](https://sportsgenie.co/): A sports prediction website in collaboration with 3 other developers
 - Leetcode 😵‍💫
 
 ### 🫀 My Values:
@@ -18,12 +17,12 @@ I'm Adam! I am an incoming Software Developer Intern at the Federal Reserve Boar
 
 ### 🤓 I geek out on:
 - 🎮 GAMES! I will literally talk to you about them or, better yet, play them with you for hours!
-- Currently playing: ToTK, MHR
+- Currently playing: ToTK, P5R
 - Perpetually playing: League of Legends, Rocket League, Overwatch 2, Pokemon
-- Want to play: Diablo 4, Phantom Liberty
-- Completed: ... yea I'm not listing all them here. Instead, check out my HowLongToBeat! https://howlongtobeat.com/user/adstr/games/completed
+- Want to play: Baldur's Gate 3
+- Completed: ... yea I'm not listing all them here. Instead, check out my [HowLongToBeat](https://howlongtobeat.com/user/adstr/games/completed)!
 
-Other hobbies include but are not limited to: 🏐, 🏂, 🏋️, 🥾, ✈️
+Other hobbies include but are not limited to: 📚, 🍳, 🏐, 🏂, 🏋️, 🥾, ✈️
 
 Favorite Emoji: 🧌
 

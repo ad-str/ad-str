@@ -1,10 +1,10 @@
 ### What's up!? 👋
 
-I'm Adam! I'm a Software Engineer Intern at the Federal Reserve Board of Governors in DC! I worked full-time as a Research Assistant at the Wharton School for 3 years, while also studying part-time as a CS Master's student at UPenn.
+I'm Adam! I'm a graduate student in the Master's of Computer and Information Technology program at the University of Pennsylvania where I am currently in my last semester (expected graduation Dec 2024). I just finished a Software Engineering Internship at the Federal Reserve Board of Governors in Washington, DC. I used to work in economic research as a Research Assistant at the Wharton School of Business but became too fascinated with some of the software tools I was using that I decided to pursue a more technical career! Excited for any opportunity to learn some new tech! Currently enjoying network programming and distributed systems.
 
 ### 💻 Currently working on:
 - A Master's in Computer and Information Technology at the Unversity of Pennsylvania - Expected Graduation Dec 2024
-- [SportsGenie](https://sportsgenie.co/): A sports prediction website in collaboration with 3 other developers
+- [SportsGenie](https://sportsgenie.co/): A sports prediction website in collaboration with 2 other developers
 - Leetcode 😵‍💫
 
 ### 🫀 My Values:

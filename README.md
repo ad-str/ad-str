@@ -1,11 +1,9 @@
 ### What's up!? 👋
 
-I'm Adam! I'm a graduate student in the Master's of Computer and Information Technology program at the University of Pennsylvania where I am currently in my last semester (expected graduation Dec 2024). I just finished a Software Engineering Internship at the Federal Reserve Board of Governors in Washington, DC. I used to work in economic research as a Research Assistant at the Wharton School of Business but became too fascinated with some of the software tools I was using that I decided to pursue a more technical career! Excited for any opportunity to learn some new tech! Currently enjoying network programming and distributed systems.
+I'm Adam! I'm a graduate student in the Master's of Computer and Information Technology program at the University of Pennsylvania where I am currently in my last semester (expected graduation May 2025). I just finished a Software Engineering Internship at the Federal Reserve Board of Governors in Washington, DC. I used to work in economic research as a Research Assistant at the Wharton School of Business but became too fascinated with some of the software tools I was using that I decided to pursue a more technical career! Excited for any opportunity to learn some new tech! Currently enjoying network programming and distributed systems.
 
 ### 💻 Currently working on:
 - A Master's in Computer and Information Technology at the Unversity of Pennsylvania - Expected Graduation Dec 2024
-- [SportsGenie](https://sportsgenie.co/): A sports prediction website in collaboration with 2 other developers
-- Leetcode 😵‍💫
 
 ### 🫀 My Values:
 - **My Strengths are Another's Superpower**: The reason I grow is to improve my efficacy in helping others. I ask who not what I'm doing this for.
@@ -17,7 +15,7 @@ I'm Adam! I'm a graduate student in the Master's of Computer and Information Tec
 
 ### 🤓 I geek out on:
 - 🎮 GAMES! I will literally talk to you about them or, better yet, play them with you for hours!
-- Currently playing: ToTK, P5R
+- Currently playing: KCD2, TLOU2
 - Perpetually playing: League of Legends, Rocket League, Overwatch 2, Pokemon
 - Want to play: Baldur's Gate 3
 - Completed: ... yea I'm not listing all them here. Instead, check out my [HowLongToBeat](https://howlongtobeat.com/user/adstr/games/completed)!
